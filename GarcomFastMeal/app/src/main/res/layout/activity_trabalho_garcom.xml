@@ -91,12 +91,11 @@
         android:textColor="@android:color/background_dark"
         android:textSize="36sp"
         android:textStyle="bold"
-        Tools:text="item pratro"
+     
         app:layout_constraintBottom_toTopOf="@+id/textView4"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/Pedidos"
-        app:layout_constraintTop_toTopOf="@+id/Pedidos"
-        tools:text="  1" />
+        app:layout_constraintTop_toTopOf="@+id/Pedidos" />
 
     <TextView
         android:id="@+id/txt_chamadas"
